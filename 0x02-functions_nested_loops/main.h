@@ -1,6 +1,10 @@
 #ifndef main_h
 	#define main_h
-
+/**
+	 * main.h
+	 * is written by dom
+	 * Return: 0
+	 */
 
 	int _putchar(char);
 	void print_alphabet(void);
